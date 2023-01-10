@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Chris
-[instagram]: https://www.instagram.com/Chris
-[linkedin]: https://linkedin.com/in/Chris
+[instagram]: https://www.instagram.com/arslanblk
+[linkedin]: https://linkedin.com/in/chris-obiarinze-a46992259
